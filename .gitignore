@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+models/
+coco_data/
+results/
+.cache/
+*.jsonl
+sim_records.csv
