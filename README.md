@@ -136,11 +136,14 @@ ROT/
 ## Citation
 
 ```bibtex
-@inproceedings{du2026rot,
-  title     = {{ROT}: Rotating Hidden States towards Contextual Vectors for Hallucination Mitigation in {LVLMs}},
-  author    = {Du, Yijing and Zhan, Xiangcheng and Yang, Shuo},
-  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
-  year      = {2026}
+@misc{du2026rotrotatinghiddenstates,
+      title={ROT: Rotating Hidden States towards Contextual Vectors for Hallucination Mitigation in LVLMs},
+      author={Yijing Du and Xiangcheng Zhan and Shuo Yang},
+      year={2026},
+      eprint={2610.06056},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2610.06056},
 }
 ```
 
